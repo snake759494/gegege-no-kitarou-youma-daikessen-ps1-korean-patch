@@ -1,0 +1,11 @@
+{
+ "version": "v1.0",
+ "asset": "Kitarou_Youma_Daikessen_KO_v1.0.xdelta",
+ "asset_size": 366819,
+ "asset_sha256": "0a229af9d686ec0446e7af29284dcf1e97b6419eb932ee5561eb972ba7502007",
+ "source_bin_size": 136686480,
+ "source_bin_md5": "b52cd0642c87150c2df41fff33945e0e",
+ "source_bin_sha256": "de7fb1e28b031304f464d959e7edd2cc0ee32dc3e7aa0e5b193756f9224398b4",
+ "result_bin_size": 136686480,
+ "result_bin_sha256": "d3aca0c7c3a37e184786defdbdfbeb292b9a3fd8f54cb03a3a7d23d8601199ea"
+}
